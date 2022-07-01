@@ -7,7 +7,7 @@
     <artifactId>atguigu</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <kafka.version>0.11.0.0</kafka.version>
+        <kafka.version>0.11.0.2</kafka.version>
         <hadoop.version>2.7.2</hadoop.version>
     </properties>
     <dependencies>
